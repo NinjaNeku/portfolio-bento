@@ -2,7 +2,7 @@ import React from "react";
 
 const HeaderBar = () => {
   return (
-    <div className="w-auto h-[70px] px-6 bg-[#b8514b] rounded-[20px] flex items-center justify-between m-5">
+    <div className="w-min-[100px] h-[70px] px-6 bg-[#b8514b] rounded-[20px] flex items-center justify-between m-5">
       <div className="text-[#3c2f2a] text-xl font-['Gilroy']">
         <span className="font-['Gilroy-LightItalic']">AAYUSH </span>
         <span className="font-['Gilroy-bold']">GAUTAM</span>
